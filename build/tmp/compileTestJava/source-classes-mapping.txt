@@ -1,0 +1,6 @@
+cn/bobdeng/args/ArgsTest.java
+ cn.bobdeng.args.ArgsTest
+ cn.bobdeng.args.ArgsTest$MultiValues
+ cn.bobdeng.args.ArgsTest$SingleBool
+ cn.bobdeng.args.ArgsTest$SingleInteger
+ cn.bobdeng.args.ArgsTest$SingleString

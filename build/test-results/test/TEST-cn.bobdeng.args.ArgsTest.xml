@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cn.bobdeng.args.ArgsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-03-19T01:39:56" hostname="dengzhiguodeMacBook-Pro.local" time="0.033">
+  <properties/>
+  <testcase name="should_return_true_if_flag_present()" classname="cn.bobdeng.args.ArgsTest" time="0.023"/>
+  <testcase name="should_return_default_value_when_not_present()" classname="cn.bobdeng.args.ArgsTest" time="0.001"/>
+  <testcase name="should_parse_multi()" classname="cn.bobdeng.args.ArgsTest" time="0.001"/>
+  <testcase name="should_return_default_int_value_when_not_present()" classname="cn.bobdeng.args.ArgsTest" time="0.001"/>
+  <testcase name="should_return_string()" classname="cn.bobdeng.args.ArgsTest" time="0.0"/>
+  <testcase name="should_return_false_if_flag_not_present()" classname="cn.bobdeng.args.ArgsTest" time="0.001"/>
+  <testcase name="should_return_int()" classname="cn.bobdeng.args.ArgsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
